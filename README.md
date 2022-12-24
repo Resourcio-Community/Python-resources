@@ -33,17 +33,11 @@ Enjoy!
 ## Websites for Pythons
 | Website Links |
 | ------------- |
-
 | https://www.programiz.com/python-programming#:~:text=Python%20is%20a%20popular%20general,language%20to%20learn%20for%20beginners |
-
 | https://www.w3schools.com/python/ |
-
 | https://www.learnpython.org/ |
-
 | https://www.geeksforgeeks.org/python-programming-language/ |
-
 | https://www.javatpoint.com/python-tutorial |
-
 | https://www.sololearn.com/learning/1073 |
 ---
 ## Join our Community
