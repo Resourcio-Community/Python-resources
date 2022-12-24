@@ -1,6 +1,6 @@
 # Python-resources
 
-This is an awesome project about Python resources. ⚡
+This is an awesome repo about Python resources. ⚡
 
 Resources are added frequently! ⚡
 
