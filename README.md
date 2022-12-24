@@ -15,11 +15,11 @@ Enjoy!
 ## Books for Python
 | NAME | Hard Copy Link | PDF Copy Link |
 | ---- | -------------- | ------------- |
-| Computer Science with Python Text book for Class 11 by Sumita Arora | [Click Here]() | [Click Here](https://pythonclassroomdiary.files.wordpress.com/2020/11/sumita-arora-class-xi-computer-science-with-python-pdf.pdf) |
-| Computer Science with Python Text book for Class 12 by Sumita Arora | [Click Here]() | [Click Here](https://www.ssgopalganj.in/online/Class%20XII/Comp/Computer%20science%20PYTHON%20book%20pdf%20for%20class%2012.pdf) |
-| Fluent Python by Luciano Ramalho | [Click Here]() | [Click Here](https://drive.google.com/file/d/1P-eBcXYUJU1DRB--M7hPLdDlihJlM4DT/view) |
-| Python CookBook by David Beazley and Brian K.Jones | [Click Here]() | [Click Here](https://drive.google.com/file/d/1P6hR_hANqQQEqSNwHtG6-KP9TayJN27X/view) |
-| Learning Python, 5th Edition by Mark Lutz | [Click Here]() | [Click Here](https://www.pdfdrive.com/download.pdf?id=39205692&h=dc08b51c4a7a9e3af2afa5aa818c1d56&u=cache&ext=pdf) |
+| Computer Science with Python Text book for Class 11 by Sumita Arora | [Click Here](https://www.amazon.in/Computer-Science-Practice-Textbook-2018-2019/dp/8177002309/ref=sr_1_1?crid=36CS0HPSIPIIG&keywords=Computer+Science+with+Python+Text+book+for+Class+11+by+Sumita+Arora&qid=1671890785&sprefix=computer+science+with+python+text+book+for+class+11+by+sumita+arora%2Caps%2C227&sr=8-1) | [Click Here](https://pythonclassroomdiary.files.wordpress.com/2020/11/sumita-arora-class-xi-computer-science-with-python-pdf.pdf) |
+| Computer Science with Python Text book for Class 12 by Sumita Arora | [Click Here](https://www.amazon.in/Computer-Science-Python-2019-2020-Examination/dp/8177002368/ref=sr_1_1?crid=7YNVC3SCLZJL&keywords=Computer+Science+with+Python+Text+book+for+Class+12+by+Sumita+Arora&qid=1671890836&sprefix=computer+science+with+python+text+book+for+class+12+by+sumita+arora%2Caps%2C538&sr=8-1) | [Click Here](https://www.ssgopalganj.in/online/Class%20XII/Comp/Computer%20science%20PYTHON%20book%20pdf%20for%20class%2012.pdf) |
+| Fluent Python by Luciano Ramalho | [Click Here](https://www.amazon.in/Fluent-Python-Effective-Programming-Grayscale/dp/9355420838/ref=sr_1_1?crid=Z9O5FA9WGJXA&keywords=Fluent+Python+by+Luciano+Ramalho&qid=1671890868&sprefix=fluent+python+by+luciano+ramalho%2Caps%2C232&sr=8-1) | [Click Here](https://drive.google.com/file/d/1P-eBcXYUJU1DRB--M7hPLdDlihJlM4DT/view) |
+| Python CookBook by David Beazley and Brian K.Jones | [Click Here](https://www.amazon.in/s?k=Python+CookBook+by+David+Beazley+and+Brian+K.Jones&crid=37KI4NSZOGK76&sprefix=python+cookbook+by+david+beazley+and+brian+k.jones%2Caps%2C226&ref=nb_sb_noss) | [Click Here](https://drive.google.com/file/d/1P6hR_hANqQQEqSNwHtG6-KP9TayJN27X/view) |
+| Learning Python, 5th Edition by Mark Lutz | [Click Here](https://www.amazon.in/Learning-Python-Powerful-Object-Oriented-Programming/dp/9351102017/ref=sr_1_2?crid=3K89765FCJ6MB&keywords=Learning+Python%2C+5th+Edition+by+Mark+Lutz&qid=1671890949&sprefix=learning+python%2C+5th+edition+by+mark+lutz%2Caps%2C362&sr=8-2) | [Click Here](https://www.pdfdrive.com/download.pdf?id=39205692&h=dc08b51c4a7a9e3af2afa5aa818c1d56&u=cache&ext=pdf) |
 ---
 ## YouTube Channels for Python
 | Channel Name | Description |
